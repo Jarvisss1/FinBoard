@@ -11,7 +11,6 @@ A powerful, customizable, and responsive financial data dashboard built with **N
   - **Time Series Charts**: Interactive historical price charts for any stock.
   - **Tables**: Comprehensive data views (e.g., Top Gainers & Losers).
   - **Watchlist**: Multi-stock monitoring table to track your favorites.
-- **🔦 Dark/Light Mode**: Built-in theme support (currently configured in code).
 - **💾 Auto-Save**: Your dashboard layout and widget settings are automatically saved to local storage.
 - **🔑 Secure API Handling**: Manage your Alpha Vantage / Finnhub API keys securely in the browser.
 - **🚀 Demo Mode**: One-click "Load Demo" to instantly populate your dashboard with sample data.
